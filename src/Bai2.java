@@ -10,7 +10,7 @@ public class Bai2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhập n: ");
+        System.out.print("Nhập n: ");
         int n = sc.nextInt();
         System.out.println(Sum2(n));
         sc.close();
